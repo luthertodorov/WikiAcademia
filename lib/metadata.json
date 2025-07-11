@@ -1,6 +1,6 @@
 {
   "vaultName": "Academia",
-  "lastExport": 1751946355907,
+  "lastExport": 1752192104459,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -12,6 +12,7 @@
     "Academia/Aventuras/00. Dominio de Zok/El Filo del Dragón.md",
     "Academia/Aventuras/00. Dominio de Zok/Zok.md",
     "Academia/Aventuras/01. Dominio de Utalú/01. Un desembarco peculiar.md",
+    "Academia/Aventuras/01. Dominio de Utalú/02. Parque Chultásico.md",
     "Academia/Aventuras/Party/Astrid Starweaver.md",
     "Academia/Aventuras/Party/Edward Kael.md",
     "Academia/Aventuras/Party/Henri Chicot.md",
@@ -28,6 +29,7 @@
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_1.png",
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_2.png",
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_3.png",
+    "Academia/Galería/Miscelánea/Momento hipado raptors.png",
     "Academia/Galería/Miscelánea/Plaza Mayor PNyanzaru.png",
     "Academia/Galería/Miscelánea/Puertas de PNyanzaru.png",
     "Academia/Galería/Miscelánea/Puerto PNyanzaru.png",
@@ -35,6 +37,9 @@
     "Academia/Galería/Miscelánea/Río Chult_2.png",
     "Academia/Galería/Miscelánea/Selva de Chult_1.png",
     "Academia/Galería/Miscelánea/You Shall Not Pass.png",
+    "Academia/Galería/Personajes/NPCs/Dixie montura.png",
+    "Academia/Galería/Personajes/NPCs/Kiwi.png",
+    "Academia/Galería/Personajes/NPCs/Yule.png",
     "Academia/Galería/Personajes/Party/Astrid.png",
     "Academia/Galería/Personajes/Party/Edward.png",
     "Academia/Galería/Personajes/Party/Henri.png",
@@ -55,8 +60,9 @@
     "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.md",
     "Academia/Lore/Mundi/Lugares/Río Teko.md",
     "Academia/Lore/Mundi/Lugares/Waterdeep.md",
-    "Academia/Lore/NPCs/Instructor Halrik.md",
-    "Academia/Lore/NPCs/Veska.md",
+    "Academia/Lore/NPCs/Dixie.md",
+    "Academia/Lore/NPCs/Kiwi.md",
+    "Academia/Lore/NPCs/Yule.md",
     "404.md",
     "index.md",
     "Kill Counter.md",
@@ -137,543 +143,579 @@
   ],
   "fileInfo": {
     "404.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 300,
       "exportedPath": "404.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1751946355907,
-      "sourceSize": 963,
+      "modifiedTime": 1752192104459,
+      "sourceSize": 1025,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.md": {
-      "modifiedTime": 1751946355907,
-      "sourceSize": 16812,
+      "modifiedTime": 1752192104459,
+      "sourceSize": 17124,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.html",
       "dependencies": []
     },
     "Academia/Aventuras/00. Dominio de Zok/00. Dominio de Zok.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 17907,
       "exportedPath": "Academia/Aventuras/00. Dominio de Zok/00. Dominio de Zok.html",
       "dependencies": []
     },
     "Academia/Aventuras/00. Dominio de Zok/Dominio de Zok (Lugar).md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 520,
       "exportedPath": "Academia/Aventuras/00. Dominio de Zok/Dominio de Zok (Lugar).html",
       "dependencies": []
     },
     "Academia/Aventuras/00. Dominio de Zok/Dragón Rojo de Zok.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 322,
       "exportedPath": "Academia/Aventuras/00. Dominio de Zok/Dragón Rojo de Zok.html",
       "dependencies": []
     },
     "Academia/Aventuras/00. Dominio de Zok/El Filo del Dragón.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Aventuras/00. Dominio de Zok/El Filo del Dragón.html",
       "dependencies": []
     },
     "Academia/Aventuras/00. Dominio de Zok/Zok.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Aventuras/00. Dominio de Zok/Zok.html",
       "dependencies": []
     },
     "Academia/Aventuras/01. Dominio de Utalú/01. Un desembarco peculiar.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 8624,
       "exportedPath": "Academia/Aventuras/01. Dominio de Utalú/01. Un desembarco peculiar.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Astrid Starweaver.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 5335,
       "exportedPath": "Academia/Aventuras/Party/Astrid Starweaver.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Edward Kael.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 7176,
       "exportedPath": "Academia/Aventuras/Party/Edward Kael.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Henri Chicot.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 13243,
       "exportedPath": "Academia/Aventuras/Party/Henri Chicot.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Tarus Cassidy.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 13901,
       "exportedPath": "Academia/Aventuras/Party/Tarus Cassidy.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Tarvos.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 3828,
       "exportedPath": "Academia/Aventuras/Party/Tarvos.html",
       "dependencies": []
     },
     "Academia/Aventuras/Party/Tog Duma.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 2712,
       "exportedPath": "Academia/Aventuras/Party/Tog Duma.html",
       "dependencies": []
     },
     "Academia/Galería/Mapas/Faerun.webp": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 3246196,
       "exportedPath": "Academia/Galería/Mapas/Faerun.webp",
       "dependencies": []
     },
     "Academia/Galería/Mapas/Faerun Editado.jpg": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 8023922,
       "exportedPath": "Academia/Galería/Mapas/Faerun Editado.jpg",
       "dependencies": []
     },
     "Academia/Galería/Mapas/Puerto Nyanzaru.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 3900749,
       "exportedPath": "Academia/Galería/Mapas/Puerto Nyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Carrera de Dinos.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1300547,
       "exportedPath": "Academia/Galería/Miscelánea/Carrera de Dinos.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Chult Headline.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 3015722,
       "exportedPath": "Academia/Galería/Miscelánea/Chult Headline.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Esculturas Chult.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 565405,
       "exportedPath": "Academia/Galería/Miscelánea/Esculturas Chult.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Flora de Chult.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 417897,
       "exportedPath": "Academia/Galería/Miscelánea/Flora de Chult.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_1.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1490579,
       "exportedPath": "Academia/Galería/Miscelánea/Mercado PNyanzaru_1.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_2.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1324765,
       "exportedPath": "Academia/Galería/Miscelánea/Mercado PNyanzaru_2.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Mercado PNyanzaru_3.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1029919,
       "exportedPath": "Academia/Galería/Miscelánea/Mercado PNyanzaru_3.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Plaza Mayor PNyanzaru.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1281441,
       "exportedPath": "Academia/Galería/Miscelánea/Plaza Mayor PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Puertas de PNyanzaru.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1458907,
       "exportedPath": "Academia/Galería/Miscelánea/Puertas de PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Puerto PNyanzaru.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1220362,
       "exportedPath": "Academia/Galería/Miscelánea/Puerto PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Río Chult_1.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 532566,
       "exportedPath": "Academia/Galería/Miscelánea/Río Chult_1.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Río Chult_2.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 679310,
       "exportedPath": "Academia/Galería/Miscelánea/Río Chult_2.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/Selva de Chult_1.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1093408,
       "exportedPath": "Academia/Galería/Miscelánea/Selva de Chult_1.png",
       "dependencies": []
     },
     "Academia/Galería/Miscelánea/You Shall Not Pass.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 645498,
       "exportedPath": "Academia/Galería/Miscelánea/You Shall Not Pass.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Astrid.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1090618,
       "exportedPath": "Academia/Galería/Personajes/Party/Astrid.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Edward.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 746644,
       "exportedPath": "Academia/Galería/Personajes/Party/Edward.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Henri.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1041575,
       "exportedPath": "Academia/Galería/Personajes/Party/Henri.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Tarus.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 705601,
       "exportedPath": "Academia/Galería/Personajes/Party/Tarus.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Tarvos.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1257560,
       "exportedPath": "Academia/Galería/Personajes/Party/Tarvos.png",
       "dependencies": []
     },
     "Academia/Galería/Personajes/Party/Tog Duma.png": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1346028,
       "exportedPath": "Academia/Galería/Personajes/Party/Tog Duma.png",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Academia de Aventureros.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 355,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Academia de Aventureros.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Aurelia.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 860,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Aurelia.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Baldur's Gate.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Baldur's Gate.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Calimshan.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Calimshan.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Chult.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 11003,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Chult.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Costa de Espada.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Costa de Espada.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Dominio de Utalú (Lugar).md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Dominio de Utalú (Lugar).html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Faerûn.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Faerûn.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Fuerte Beluarian.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1411,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Fuerte Beluarian.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Mar Sin Rastro.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Mar Sin Rastro.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Picos de la Llama.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Picos de la Llama.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Río Teko.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Río Teko.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Waterdeep.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Waterdeep.html",
       "dependencies": []
     },
-    "Academia/Lore/NPCs/Instructor Halrik.md": {
-      "modifiedTime": 1751946355907,
-      "sourceSize": 0,
-      "exportedPath": "Academia/Lore/NPCs/Instructor Halrik.html",
-      "dependencies": []
-    },
-    "Academia/Lore/NPCs/Veska.md": {
-      "modifiedTime": 1751946355907,
-      "sourceSize": 0,
-      "exportedPath": "Academia/Lore/NPCs/Veska.html",
-      "dependencies": []
-    },
     "Kill Counter.md": {
-      "modifiedTime": 1751946355907,
+      "modifiedTime": 1752192104459,
       "sourceSize": 1194,
       "exportedPath": "Kill Counter.html",
+      "dependencies": []
+    },
+    "Academia/Aventuras/01. Dominio de Utalú/02. Parque Chultásico.md": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 7656,
+      "exportedPath": "Academia/Aventuras/01. Dominio de Utalú/02. Parque Chultásico.html",
+      "dependencies": []
+    },
+    "Academia/Galería/Miscelánea/Momento hipado raptors.png": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 1564680,
+      "exportedPath": "Academia/Galería/Miscelánea/Momento hipado raptors.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Personajes/NPCs/Dixie montura.png": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 204221,
+      "exportedPath": "Academia/Galería/Personajes/NPCs/Dixie montura.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Personajes/NPCs/Kiwi.png": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 508782,
+      "exportedPath": "Academia/Galería/Personajes/NPCs/Kiwi.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Personajes/NPCs/Yule.png": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 1453256,
+      "exportedPath": "Academia/Galería/Personajes/NPCs/Yule.png",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Dixie.md": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 355,
+      "exportedPath": "Academia/Lore/NPCs/Dixie.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Kiwi.md": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 559,
+      "exportedPath": "Academia/Lore/NPCs/Kiwi.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Yule.md": {
+      "modifiedTime": 1752192104459,
+      "sourceSize": 1149,
+      "exportedPath": "Academia/Lore/NPCs/Yule.html",
       "dependencies": []
     }
   }
