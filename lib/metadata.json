@@ -1,14 +1,13 @@
 {
   "vaultName": "Academia",
-  "lastExport": 1760057665096,
+  "lastExport": 1765580009478,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Academia/Aventuras/01. Dominio de Zok/01. Dominio de Zok.md",
-    "Academia/Aventuras/01. Dominio de Zok/Dominio de Zok (Lugar).md",
-    "Academia/Aventuras/01. Dominio de Zok/Dragón Rojo de Zok.md",
+    "Academia/Aventuras/02. Dominio de Utalú/0x. Dominio de Utalú.md",
     "Academia/Aventuras/02. Dominio de Utalú/02. Un desembarco peculiar.md",
     "Academia/Aventuras/02. Dominio de Utalú/03. Parque Chultásico.md",
     "Academia/Aventuras/02. Dominio de Utalú/04. Quedamos a mano.md",
@@ -22,14 +21,8 @@
     "Academia/Aventuras/05. Costa de Espada/12. Dominio de Gwynn.md",
     "Academia/Aventuras/05. Costa de Espada/13. El Paquete Especial.md",
     "Academia/Aventuras/05. Costa de Espada/14. La Gran Apertura.md",
-    "Academia/Aventuras/Party/Astrid Starweaver.md",
-    "Academia/Aventuras/Party/Edward Kael.md",
-    "Academia/Aventuras/Party/Henri Chicot.md",
-    "Academia/Aventuras/Party/Snuggly.md",
-    "Academia/Aventuras/Party/Tarus Cassidy.md",
-    "Academia/Aventuras/Party/Tarvos.md",
-    "Academia/Aventuras/Party/Tog Duma.md",
-    "Academia/Aventuras/Party/Vindaros.md",
+    "Academia/Aventuras/05. Costa de Espada/15. El Descenso.md",
+    "Academia/Aventuras/05. Costa de Espada/16. El Fondo.md",
     "Academia/Galería/Archivos/Mapas/Beregost.jpg",
     "Academia/Galería/Archivos/Mapas/Costa de Espada Norte.png",
     "Academia/Galería/Archivos/Mapas/Costa de Espada Norte_1.png",
@@ -64,12 +57,17 @@
     "Academia/Galería/Archivos/Miscelánea/Vínculo-Shar.png",
     "Academia/Galería/Archivos/Miscelánea/You Shall Not Pass.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Aprendiz de Mago.jpg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Brandoc.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Bulluq.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Caiphon.jpg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Capataz.jpg",
     "Academia/Galería/Archivos/Personajes/NPCs/Carde.jpg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Celyn.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Dante Cardona.jpeg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Delmar Jarret.jpg",
     "Academia/Galería/Archivos/Personajes/NPCs/Dixie montura.png",
     "Academia/Galería/Archivos/Personajes/NPCs/EleDante.jpeg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Emeric Senka.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Fadeelah.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Fegres.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Figura Sospechosa.jpeg",
@@ -77,7 +75,10 @@
     "Academia/Galería/Archivos/Personajes/NPCs/Guz y Mari.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Gwynn.jpeg",
     "Academia/Galería/Archivos/Personajes/NPCs/Helkewt Jiyan.png",
+    "Academia/Galería/Archivos/Personajes/NPCs/Hierro-Diez.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Ivanna.jpg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Espada.jpg",
+    "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Gatito.jpg",
     "Academia/Galería/Archivos/Personajes/NPCs/Janos Speyer.jpg",
     "Academia/Galería/Archivos/Personajes/NPCs/Jessamine.jpeg",
     "Academia/Galería/Archivos/Personajes/NPCs/Kelddath Ormlyr.webp",
@@ -93,6 +94,8 @@
     "Academia/Galería/Archivos/Personajes/NPCs/Malisa Pradtana.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Malisa_Alas.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Noke.png",
+    "Academia/Galería/Archivos/Personajes/NPCs/Rowan.png",
+    "Academia/Galería/Archivos/Personajes/NPCs/Rudram.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Sareth.png",
     "Academia/Galería/Archivos/Personajes/NPCs/Sastine Umeren.jpg",
     "Academia/Galería/Archivos/Personajes/NPCs/Semiorca Alcohólica.jpg",
@@ -120,6 +123,7 @@
     "Academia/Galería/Archivos/Personajes/Party/Henri_Peluchito.png",
     "Academia/Galería/Archivos/Personajes/Party/Snuggly.jpeg",
     "Academia/Galería/Archivos/Personajes/Party/Tarus.png",
+    "Academia/Galería/Archivos/Personajes/Party/Tarus Chiquita.png",
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-1.png",
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-2.png",
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-3.png",
@@ -146,6 +150,7 @@
     "Academia/Galería/Archivos/Portadas/12 Dominio de Gwynn.jpg",
     "Academia/Galería/Archivos/Portadas/13 El Paquete Especial.jpg",
     "Academia/Galería/Archivos/Portadas/14 La Gran Apertura.jpg",
+    "Academia/Galería/Archivos/Portadas/15 El descenso.jpg",
     "Academia/Galería/Arte conceptual/Astrid Starweaver.canvas",
     "Academia/Galería/Arte conceptual/Edward.canvas",
     "Academia/Galería/Arte conceptual/Henri Chicot.canvas",
@@ -161,26 +166,36 @@
     "Academia/Lore/Mundi/Lugares/Beregost.md",
     "Academia/Lore/Mundi/Lugares/Chult.md",
     "Academia/Lore/Mundi/Lugares/Dominio de Utalú (Lugar).md",
+    "Academia/Lore/Mundi/Lugares/Dominio de Zok (Lugar).md",
     "Academia/Lore/Mundi/Lugares/Fuerte Beluarian.md",
     "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.md",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Brandoc.md",
     "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Dante Cardona.md",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Hierro-Diez.md",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Gameplay.canvas",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Ilyishna.md",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Malisa Pradtana.md",
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Rudram, el Destructor de Mundos.md",
+    "Academia/Lore/NPCs/Alain.md",
     "Academia/Lore/NPCs/Bulluq.md",
     "Academia/Lore/NPCs/Carde.md",
     "Academia/Lore/NPCs/Celyn Bibble.md",
+    "Academia/Lore/NPCs/Delmar Jarrett.md",
     "Academia/Lore/NPCs/Dixie.md",
+    "Academia/Lore/NPCs/Dragón Rojo de Zok.md",
+    "Academia/Lore/NPCs/Emeric Senka.md",
     "Academia/Lore/NPCs/Fadeelah.md",
     "Academia/Lore/NPCs/Fegres.md",
     "Academia/Lore/NPCs/Figura Sospechosa.md",
     "Academia/Lore/NPCs/Guz.md",
     "Academia/Lore/NPCs/Gwynn.md",
     "Academia/Lore/NPCs/Helkewt Jiyan.md",
-    "Academia/Lore/NPCs/Ivanna Ilyishna.md",
     "Academia/Lore/NPCs/Janos Speyer.md",
     "Academia/Lore/NPCs/Kiwi.md",
     "Academia/Lore/NPCs/Kwayothé.md",
     "Academia/Lore/NPCs/Lirien.md",
-    "Academia/Lore/NPCs/Malisa Pradtana.md",
     "Academia/Lore/NPCs/Noke.md",
+    "Academia/Lore/NPCs/Rowan.md",
     "Academia/Lore/NPCs/Sareth.md",
     "Academia/Lore/NPCs/Sastine Umeren.md",
     "Academia/Lore/NPCs/Semiorca Alcohólica.md",
@@ -189,7 +204,84 @@
     "Academia/Lore/NPCs/Tuhari.md",
     "Academia/Lore/NPCs/Will.md",
     "Academia/Lore/NPCs/Yule.md",
-    "Academia/Lore/Objetos míticos/Varita de Shinebright.md",
+    "Academia/Lore/Objetos Mágicos/Espada Sagrada de Edward.png",
+    "Academia/Lore/Objetos Mágicos/Piedra Mensajera.md",
+    "Academia/Lore/Objetos Mágicos/Varita de Shinebright.md",
+    "Academia/Party/Astrid Starweaver.md",
+    "Academia/Party/Edward Kael.md",
+    "Academia/Party/Henri Chicot.md",
+    "Academia/Party/Snuggly.md",
+    "Academia/Party/Tarus Cassidy.md",
+    "Academia/Party/Tarvos.md",
+    "Academia/Party/Tog Duma.md",
+    "Academia/Party/Vindaros.md",
+    "Halloween/Galería/Jugadores/Aaron PNG.png",
+    "Halloween/Galería/Jugadores/Aquiri PNG.png",
+    "Halloween/Galería/Jugadores/Cálida PNG.png",
+    "Halloween/Galería/Jugadores/Maddox PNG.png",
+    "Halloween/Galería/Jugadores/Stark PNG.png",
+    "Halloween/Galería/Jugadores/Stark PNG 2.png",
+    "Halloween/Galería/Jugadores/Veil PNG.png",
+    "Halloween/Galería/Jugadores/Zedrick PNG.png",
+    "Halloween/Galería/Mapas/Bosque.jpg",
+    "Halloween/Galería/Mapas/Bosque Anotado.jpg",
+    "Halloween/Galería/Mapas/Tanwen Manor - 1.webp",
+    "Halloween/Galería/Mapas/Tanwen Manor - 2.webp",
+    "Halloween/Galería/Mapas/Tanwen Manor - 3.webp",
+    "Halloween/Galería/Miscelánea/Barco Etéreo llegando a Ciudad.png",
+    "Halloween/Galería/Miscelánea/Círculo de Runas.png",
+    "Halloween/Galería/Miscelánea/Ciudad Etérea - Elemental Magma.png",
+    "Halloween/Galería/Miscelánea/Drakkar - Plano Etéreo.png",
+    "Halloween/Galería/Miscelánea/Drakkar Runa.png",
+    "Halloween/Galería/Miscelánea/Etéreo - Elemental Agua.png",
+    "Halloween/Galería/Miscelánea/Etéreo - Elemental Roca.png",
+    "Halloween/Galería/Miscelánea/Habitaciones Sirvientes.png",
+    "Halloween/Galería/Miscelánea/Shadowfell.jpg",
+    "Halloween/Galería/Miscelánea/Tanwen Blackhawk.png",
+    "Halloween/Galería/Miscelánea/Valle Etéreo.png",
+    "Halloween/Galería/NPCs/Ama de Llaves.png",
+    "Halloween/Galería/NPCs/Ayudante de Cocina.png",
+    "Halloween/Galería/NPCs/Baes.jpg",
+    "Halloween/Galería/NPCs/Casper.png",
+    "Halloween/Galería/NPCs/Casper Recortado.png",
+    "Halloween/Galería/NPCs/Cazador.png",
+    "Halloween/Galería/NPCs/Cazador Recortado.png",
+    "Halloween/Galería/NPCs/Chef Phylro.png",
+    "Halloween/Galería/NPCs/Chofer.png",
+    "Halloween/Galería/NPCs/Dian Solin.png",
+    "Halloween/Galería/NPCs/Doncella de Limpieza 1.png",
+    "Halloween/Galería/NPCs/Doncella de Limpieza 2.png",
+    "Halloween/Galería/NPCs/Doncella de Limpieza 3.png",
+    "Halloween/Galería/NPCs/Guideon Solin.png",
+    "Halloween/Galería/NPCs/Institutriz.png",
+    "Halloween/Galería/NPCs/Jardinero.png",
+    "Halloween/Galería/NPCs/Jotham Novis.png",
+    "Halloween/Galería/NPCs/Lavandera.png",
+    "Halloween/Galería/NPCs/Madre Tanwen.png",
+    "Halloween/Galería/NPCs/Mayordomo.png",
+    "Halloween/Galería/NPCs/Mozo de Cuadra 1.png",
+    "Halloween/Galería/NPCs/Mozo de Cuadra 2.png",
+    "Halloween/Galería/NPCs/Nightwalker.png",
+    "Halloween/Galería/NPCs/Nightwalker 2.png",
+    "Halloween/Galería/NPCs/Nightwalker 3.png",
+    "Halloween/Galería/NPCs/Nightwalker 4.png",
+    "Halloween/Galería/NPCs/Nightwalker Ficha.png",
+    "Halloween/Galería/NPCs/Nightwalker Fichin.png",
+    "Halloween/Galería/NPCs/Sirvienta de Comedor.png",
+    "Halloween/Galería/NPCs/Sirviente de Comedor.png",
+    "Halloween/Galería/NPCs/Vetsen.png",
+    "Halloween/Jugadores/Aaron Flaik.md",
+    "Halloween/Jugadores/Aquiri Novis.md",
+    "Halloween/Jugadores/Cálida Baignard.md",
+    "Halloween/Jugadores/Maddox Tanwen.md",
+    "Halloween/Jugadores/Stark Tanwen.md",
+    "Halloween/Jugadores/Veil Ruhig.md",
+    "Halloween/Jugadores/Zedrick Haro.md",
+    "Halloween/NPCs/Ashard Markides.md",
+    "Halloween/Hallowweennn.md",
+    "Halloween/Jalowin.canvas",
+    "Halloween/Tanwen Blackhawk.md",
+    "Halloween/Tanwen Thunderstrike.md",
     "404.md",
     "index.canvas",
     "Kill Counter.md",
@@ -274,1353 +366,1905 @@
   ],
   "fileInfo": {
     "Academia/Aventuras/01. Dominio de Zok/01. Dominio de Zok.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 17808,
       "exportedPath": "Academia/Aventuras/01. Dominio de Zok/01. Dominio de Zok.html",
       "dependencies": []
     },
-    "Academia/Aventuras/01. Dominio de Zok/Dominio de Zok (Lugar).md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 520,
-      "exportedPath": "Academia/Aventuras/01. Dominio de Zok/Dominio de Zok (Lugar).html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/01. Dominio de Zok/Dragón Rojo de Zok.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 322,
-      "exportedPath": "Academia/Aventuras/01. Dominio de Zok/Dragón Rojo de Zok.html",
-      "dependencies": []
-    },
     "Academia/Aventuras/02. Dominio de Utalú/02. Un desembarco peculiar.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 8639,
       "exportedPath": "Academia/Aventuras/02. Dominio de Utalú/02. Un desembarco peculiar.html",
       "dependencies": []
     },
     "Academia/Aventuras/02. Dominio de Utalú/03. Parque Chultásico.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 7724,
       "exportedPath": "Academia/Aventuras/02. Dominio de Utalú/03. Parque Chultásico.html",
       "dependencies": []
     },
     "Academia/Aventuras/02. Dominio de Utalú/04. Quedamos a mano.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2425,
       "exportedPath": "Academia/Aventuras/02. Dominio de Utalú/04. Quedamos a mano.html",
       "dependencies": []
     },
     "Academia/Aventuras/02. Dominio de Utalú/05. Será recordado.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 14865,
       "exportedPath": "Academia/Aventuras/02. Dominio de Utalú/05. Será recordado.html",
       "dependencies": []
     },
     "Academia/Aventuras/03. Puerto Nyanzaru/06. Un reencuentro....md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 9634,
       "exportedPath": "Academia/Aventuras/03. Puerto Nyanzaru/06. Un reencuentro....html",
       "dependencies": []
     },
     "Academia/Aventuras/03. Puerto Nyanzaru/07. ... y una despedida.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 8519,
       "exportedPath": "Academia/Aventuras/03. Puerto Nyanzaru/07. ... y una despedida.html",
       "dependencies": []
     },
     "Academia/Aventuras/03. Puerto Nyanzaru/08. La Carrera.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 8232,
       "exportedPath": "Academia/Aventuras/03. Puerto Nyanzaru/08. La Carrera.html",
       "dependencies": []
     },
-    "Academia/Aventuras/Party/Astrid Starweaver.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 5417,
-      "exportedPath": "Academia/Aventuras/Party/Astrid Starweaver.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Edward Kael.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 11619,
-      "exportedPath": "Academia/Aventuras/Party/Edward Kael.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Henri Chicot.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 13069,
-      "exportedPath": "Academia/Aventuras/Party/Henri Chicot.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Tarus Cassidy.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 13974,
-      "exportedPath": "Academia/Aventuras/Party/Tarus Cassidy.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Tarvos.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 3897,
-      "exportedPath": "Academia/Aventuras/Party/Tarvos.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Tog Duma.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 1673,
-      "exportedPath": "Academia/Aventuras/Party/Tog Duma.html",
-      "dependencies": []
-    },
-    "Academia/Aventuras/Party/Vindaros.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 16959,
-      "exportedPath": "Academia/Aventuras/Party/Vindaros.html",
-      "dependencies": []
-    },
     "Academia/Galería/Archivos/Mapas/Faerun.webp": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3246196,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Faerun.webp",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Mapas/Faerun Editado.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 8023922,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Faerun Editado.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Mapas/Puerto Nyanzaru.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3900749,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Puerto Nyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Mapas/Puerto Nyanzaru Editado.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3922657,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Puerto Nyanzaru Editado.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Agarre de Hadar.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 54575,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Agarre de Hadar.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Carrera de Dinos.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1300547,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Carrera de Dinos.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Chult Headline.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3015722,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Chult Headline.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Esculturas Chult.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 565405,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Esculturas Chult.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Flora de Chult.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 417897,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Flora de Chult.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/LAFAYETTE.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 900537,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/LAFAYETTE.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1490579,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_2.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1324765,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_2.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_3.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1029919,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_3.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_4.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1261929,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Mercado PNyanzaru_4.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Momento hipado raptors.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1564680,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Momento hipado raptors.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Plaza Mayor PNyanzaru.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1281441,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Plaza Mayor PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/PNyanzaru Mercado Raptor.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 637418,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/PNyanzaru Mercado Raptor.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Puertas de PNyanzaru.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1458907,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Puertas de PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Puerto PNyanzaru.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1220362,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Puerto PNyanzaru.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Río Chult_1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 532566,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Río Chult_1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Río Chult_2.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 679310,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Río Chult_2.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Selva de Chult_1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1093408,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Selva de Chult_1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Vínculo-Henri.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 8135438,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Vínculo-Henri.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Vínculo-Selune.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 780798,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Vínculo-Selune.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Vínculo-Shar.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1835678,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Vínculo-Shar.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/You Shall Not Pass.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 645498,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/You Shall Not Pass.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Bulluq.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 891237,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Bulluq.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Dixie montura.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 204221,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Dixie montura.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Fadeelah.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 923562,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Fadeelah.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Fegres.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1493084,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Fegres.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Jessamine.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 124693,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Jessamine.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Kiwi.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 508782,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Kiwi.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Kwayothé.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 881345,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Kwayothé.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1515072,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien 1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1515072,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien 1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1482011,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-2.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1290774,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-2.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-3.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 950346,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien_IA-3.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Lirien_OjosAzules.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1274967,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Lirien_OjosAzules.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Sareth.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 750990,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Sareth.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Tuhari de Casual.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1239658,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Tuhari de Casual.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Tuhari de Guardia.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 908596,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Tuhari de Guardia.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Tuhari_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1293147,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Tuhari_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Tuhari_IA-Original.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1698199,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Tuhari_IA-Original.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Yule.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1453256,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Yule.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-1.webp": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 109680,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-1.webp",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-2.webp": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 125466,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-2.webp",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-3.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 168470,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Yule_IA-3.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Astrid.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1090618,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Astrid.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Astrid_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1908088,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Astrid_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Edward.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 746644,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Edward.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Edward_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1267063,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Edward_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Henri.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1041575,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Henri.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Henri_IA-2.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 99705,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Henri_IA-2.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Henri_IA-3.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 123222,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Henri_IA-3.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Henri_IA-4.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 128381,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Henri_IA-4.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Henri_Peluchito.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1269807,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Henri_Peluchito.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarus.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 705601,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarus.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1175153,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-2.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1251802,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-2.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-3.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1697552,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarus_IA-3.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarvos.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1257560,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarvos.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarvos_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1223938,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarvos_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tarvos-Original.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 987361,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarvos-Original.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tog Duma.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1346028,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tog Duma.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tog_Cooking.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1361361,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tog_Cooking.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Tog_IA-1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1227126,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tog_IA-1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Vindaros.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 893550,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Vindaros.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Vindaros_Hot.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1018626,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Vindaros_Hot.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Vindaros_PFP.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 797899,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Vindaros_PFP.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/01 Dominio de Zok.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1527411,
       "exportedPath": "Academia/Galería/Archivos/Portadas/01 Dominio de Zok.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/02 Un desembarco peculiar.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1581254,
       "exportedPath": "Academia/Galería/Archivos/Portadas/02 Un desembarco peculiar.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/03 Parque Chultásico.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1182746,
       "exportedPath": "Academia/Galería/Archivos/Portadas/03 Parque Chultásico.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/04 Quedamos a mano.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1757355,
       "exportedPath": "Academia/Galería/Archivos/Portadas/04 Quedamos a mano.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/05 Será recordado.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 665182,
       "exportedPath": "Academia/Galería/Archivos/Portadas/05 Será recordado.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/06 Un reencuentro.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1192863,
       "exportedPath": "Academia/Galería/Archivos/Portadas/06 Un reencuentro.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/07 Y una despedida.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1205958,
       "exportedPath": "Academia/Galería/Archivos/Portadas/07 Y una despedida.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/08 La Carrera.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1418869,
       "exportedPath": "Academia/Galería/Archivos/Portadas/08 La Carrera.jpg",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Astrid Starweaver.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 353,
       "exportedPath": "Academia/Galería/Arte conceptual/Astrid Starweaver.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Edward.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1240,
       "exportedPath": "Academia/Galería/Arte conceptual/Edward.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Henri Chicot.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 4210,
       "exportedPath": "Academia/Galería/Arte conceptual/Henri Chicot.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Lirien.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2140,
       "exportedPath": "Academia/Galería/Arte conceptual/Lirien.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Tarus Cassidy.canvas": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 2095,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2522,
       "exportedPath": "Academia/Galería/Arte conceptual/Tarus Cassidy.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Tarvos.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1801,
       "exportedPath": "Academia/Galería/Arte conceptual/Tarvos.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Tog.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1715,
       "exportedPath": "Academia/Galería/Arte conceptual/Tog.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Tuhari.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2626,
       "exportedPath": "Academia/Galería/Arte conceptual/Tuhari.html",
       "dependencies": []
     },
     "Academia/Galería/Arte conceptual/Yule y la Familia.canvas": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3898,
       "exportedPath": "Academia/Galería/Arte conceptual/Yule y la Familia.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Academia de Aventureros.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 355,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Academia de Aventureros.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Aurelia.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 927,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Aurelia.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Chult.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 11023,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Chult.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Dominio de Utalú (Lugar).md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 0,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Dominio de Utalú (Lugar).html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Fuerte Beluarian.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1411,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Fuerte Beluarian.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 47835,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Puerto Nyanzaru.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Dixie.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 455,
       "exportedPath": "Academia/Lore/NPCs/Dixie.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Fegres.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 929,
       "exportedPath": "Academia/Lore/NPCs/Fegres.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Kiwi.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 651,
       "exportedPath": "Academia/Lore/NPCs/Kiwi.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Kwayothé.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 2240,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2242,
       "exportedPath": "Academia/Lore/NPCs/Kwayothé.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Lirien.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 424,
       "exportedPath": "Academia/Lore/NPCs/Lirien.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Sareth.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1206,
       "exportedPath": "Academia/Lore/NPCs/Sareth.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Tuhari.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1222,
       "exportedPath": "Academia/Lore/NPCs/Tuhari.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Yule.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1180,
       "exportedPath": "Academia/Lore/NPCs/Yule.html",
       "dependencies": []
     },
     "404.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 313,
       "exportedPath": "404.html",
       "dependencies": []
     },
     "index.canvas": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 6891,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 6919,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Kill Counter.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 4386,
       "exportedPath": "Kill Counter.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "Academia/Aventuras/04. ONESHOT - Beeee/09. Otra aBEEEEEntura.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 11567,
       "exportedPath": "Academia/Aventuras/04. ONESHOT - Beeee/09. Otra aBEEEEEntura.html",
       "dependencies": []
     },
     "Academia/Aventuras/05. Costa de Espada/10. ¡Aniversario!.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3387,
       "exportedPath": "Academia/Aventuras/05. Costa de Espada/10. ¡Aniversario!.html",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Beregost_Blasón.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 294932,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Beregost_Blasón.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Pasted image 20250902233656.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1214207,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Pasted image 20250902233656.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Pasted image 20250902234852.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 472170,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Pasted image 20250902234852.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Miscelánea/Varita de Shinebright.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2097669,
       "exportedPath": "Academia/Galería/Archivos/Miscelánea/Varita de Shinebright.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Guz y Mari.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1157194,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Guz y Mari.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Ivanna.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 69647,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Ivanna.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Noke.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 741914,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Noke.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Shinebright.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1390126,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Shinebright.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Will.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 180862,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Will.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/09 Otra aBEEEEEntura.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1151018,
       "exportedPath": "Academia/Galería/Archivos/Portadas/09 Otra aBEEEEEntura.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/10 Aniversario.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1502186,
       "exportedPath": "Academia/Galería/Archivos/Portadas/10 Aniversario.jpg",
       "dependencies": []
     },
     "Academia/Lore/Historias/Pacto de Vindaros.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 2073,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2076,
       "exportedPath": "Academia/Lore/Historias/Pacto de Vindaros.html",
       "dependencies": []
     },
     "Academia/Lore/Mundi/Lugares/Beregost.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 7173,
       "exportedPath": "Academia/Lore/Mundi/Lugares/Beregost.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Bulluq.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 415,
       "exportedPath": "Academia/Lore/NPCs/Bulluq.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Fadeelah.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 603,
       "exportedPath": "Academia/Lore/NPCs/Fadeelah.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Guz.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1074,
       "exportedPath": "Academia/Lore/NPCs/Guz.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Noke.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1287,
       "exportedPath": "Academia/Lore/NPCs/Noke.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Shinebright.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1004,
       "exportedPath": "Academia/Lore/NPCs/Shinebright.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Will.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 5123,
       "exportedPath": "Academia/Lore/NPCs/Will.html",
       "dependencies": []
     },
-    "Academia/Lore/Objetos míticos/Varita de Shinebright.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 9279,
-      "exportedPath": "Academia/Lore/Objetos míticos/Varita de Shinebright.html",
-      "dependencies": []
-    },
     "Academia/Aventuras/05. Costa de Espada/11. MIIIP.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1552,
       "exportedPath": "Academia/Aventuras/05. Costa de Espada/11. MIIIP.html",
       "dependencies": []
     },
     "Academia/Aventuras/05. Costa de Espada/12. Dominio de Gwynn.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2366,
       "exportedPath": "Academia/Aventuras/05. Costa de Espada/12. Dominio de Gwynn.html",
       "dependencies": []
     },
     "Academia/Aventuras/05. Costa de Espada/13. El Paquete Especial.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1555,
       "exportedPath": "Academia/Aventuras/05. Costa de Espada/13. El Paquete Especial.html",
       "dependencies": []
     },
     "Academia/Aventuras/05. Costa de Espada/14. La Gran Apertura.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 13363,
       "exportedPath": "Academia/Aventuras/05. Costa de Espada/14. La Gran Apertura.html",
       "dependencies": []
     },
-    "Academia/Aventuras/Party/Snuggly.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 2099,
-      "exportedPath": "Academia/Aventuras/Party/Snuggly.html",
-      "dependencies": []
-    },
     "Academia/Galería/Archivos/Mapas/Beregost.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 2465135,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Beregost.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Mapas/Costa de Espada Norte.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1426278,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Costa de Espada Norte.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Mapas/Costa de Espada Norte_1.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3448301,
       "exportedPath": "Academia/Galería/Archivos/Mapas/Costa de Espada Norte_1.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Aprendiz de Mago.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 51283,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Aprendiz de Mago.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Carde.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 62843,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Carde.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Dante Cardona.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 165103,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Dante Cardona.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/EleDante.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 141731,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/EleDante.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Figura Sospechosa.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 95963,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Figura Sospechosa.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Futuros Aventureros.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 112670,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Futuros Aventureros.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Gwynn.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 139183,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Gwynn.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Helkewt Jiyan.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1314172,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Helkewt Jiyan.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Janos Speyer.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 125252,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Janos Speyer.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Kelddath Ormlyr.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 210,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Kelddath Ormlyr.html",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Malisa Pradtana.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1335230,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Malisa Pradtana.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Malisa_Alas.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1961466,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Malisa_Alas.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Sastine Umeren.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 118849,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Sastine Umeren.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Semiorca Alcohólica.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 75250,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Semiorca Alcohólica.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Taerom Fuiruim.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 3612043,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Taerom Fuiruim.png",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Taerom Fuiruim.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 1023,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1752,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Taerom Fuiruim.html",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Tiflin Curiosa.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 76534,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Tiflin Curiosa.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/Party/Snuggly.jpeg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 205643,
       "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Snuggly.jpeg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/11 MIIIIIP.png": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1900732,
       "exportedPath": "Academia/Galería/Archivos/Portadas/11 MIIIIIP.png",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Carde.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 118,
       "exportedPath": "Academia/Lore/NPCs/Carde.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Celyn Bibble.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 82,
       "exportedPath": "Academia/Lore/NPCs/Celyn Bibble.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Figura Sospechosa.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 476,
       "exportedPath": "Academia/Lore/NPCs/Figura Sospechosa.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Gwynn.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 256,
       "exportedPath": "Academia/Lore/NPCs/Gwynn.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Helkewt Jiyan.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 240,
       "exportedPath": "Academia/Lore/NPCs/Helkewt Jiyan.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Janos Speyer.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 112,
       "exportedPath": "Academia/Lore/NPCs/Janos Speyer.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Sastine Umeren.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 140,
       "exportedPath": "Academia/Lore/NPCs/Sastine Umeren.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Semiorca Alcohólica.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 263,
       "exportedPath": "Academia/Lore/NPCs/Semiorca Alcohólica.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/Tiefling Curiosa.md": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 262,
       "exportedPath": "Academia/Lore/NPCs/Tiefling Curiosa.html",
       "dependencies": []
     },
     "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Dante Cardona.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 959,
+      "modifiedTime": 1765580009478,
+      "sourceSize": 941,
       "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Dante Cardona.html",
       "dependencies": []
     },
-    "Academia/Lore/NPCs/Malisa Pradtana.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 942,
-      "exportedPath": "Academia/Lore/NPCs/Malisa Pradtana.html",
-      "dependencies": []
-    },
     "Academia/Galería/Archivos/Personajes/NPCs/Caiphon.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 566946,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Caiphon.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Personajes/NPCs/Kelddath Ormlyr.webp": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 880980,
       "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Kelddath Ormlyr.webp",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/12 Dominio de Gwynn.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 988427,
       "exportedPath": "Academia/Galería/Archivos/Portadas/12 Dominio de Gwynn.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/13 El Paquete Especial.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1847350,
       "exportedPath": "Academia/Galería/Archivos/Portadas/13 El Paquete Especial.jpg",
       "dependencies": []
     },
     "Academia/Galería/Archivos/Portadas/14 La Gran Apertura.jpg": {
-      "modifiedTime": 1760057665096,
+      "modifiedTime": 1765580009478,
       "sourceSize": 1310175,
       "exportedPath": "Academia/Galería/Archivos/Portadas/14 La Gran Apertura.jpg",
       "dependencies": []
     },
-    "Academia/Lore/NPCs/Ivanna Ilyishna.md": {
-      "modifiedTime": 1760057665096,
-      "sourceSize": 1818,
-      "exportedPath": "Academia/Lore/NPCs/Ivanna Ilyishna.html",
+    "Academia/Aventuras/02. Dominio de Utalú/0x. Dominio de Utalú.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 35578,
+      "exportedPath": "Academia/Aventuras/02. Dominio de Utalú/0x. Dominio de Utalú.html",
+      "dependencies": []
+    },
+    "Academia/Aventuras/05. Costa de Espada/15. El Descenso.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 670,
+      "exportedPath": "Academia/Aventuras/05. Costa de Espada/15. El Descenso.html",
+      "dependencies": []
+    },
+    "Academia/Aventuras/05. Costa de Espada/16. El Fondo.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 468,
+      "exportedPath": "Academia/Aventuras/05. Costa de Espada/16. El Fondo.html",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Brandoc.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1183257,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Brandoc.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Capataz.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 62453,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Capataz.jpg",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Celyn.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 271346,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Celyn.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Delmar Jarret.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 235310,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Delmar Jarret.jpg",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Emeric Senka.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1823186,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Emeric Senka.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Hierro-Diez.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1655597,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Hierro-Diez.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Espada.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 337471,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Espada.jpg",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Gatito.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 486786,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Ivanna_Gatito.jpg",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Rowan.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1422165,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Rowan.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/NPCs/Rudram.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1955150,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/NPCs/Rudram.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Personajes/Party/Tarus Chiquita.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1134181,
+      "exportedPath": "Academia/Galería/Archivos/Personajes/Party/Tarus Chiquita.png",
+      "dependencies": []
+    },
+    "Academia/Galería/Archivos/Portadas/15 El descenso.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 402566,
+      "exportedPath": "Academia/Galería/Archivos/Portadas/15 El descenso.jpg",
+      "dependencies": []
+    },
+    "Academia/Lore/Mundi/Lugares/Dominio de Zok (Lugar).md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 520,
+      "exportedPath": "Academia/Lore/Mundi/Lugares/Dominio de Zok (Lugar).html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Brandoc.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 338,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Brandoc.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Hierro-Diez.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2646,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Hierro-Diez.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Gameplay.canvas": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 9429,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Gameplay.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Ilyishna.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1844,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Ivanna Ilyishna.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Malisa Pradtana.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 973,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Malisa Pradtana.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Rudram, el Destructor de Mundos.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 487,
+      "exportedPath": "Academia/Lore/NPCs/La Compañía de las Cadenas Rotas/Rudram, el Destructor de Mundos.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Alain.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 16,
+      "exportedPath": "Academia/Lore/NPCs/Alain.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Delmar Jarrett.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 744,
+      "exportedPath": "Academia/Lore/NPCs/Delmar Jarrett.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Dragón Rojo de Zok.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 322,
+      "exportedPath": "Academia/Lore/NPCs/Dragón Rojo de Zok.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Emeric Senka.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1301,
+      "exportedPath": "Academia/Lore/NPCs/Emeric Senka.html",
+      "dependencies": []
+    },
+    "Academia/Lore/NPCs/Rowan.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1711,
+      "exportedPath": "Academia/Lore/NPCs/Rowan.html",
+      "dependencies": []
+    },
+    "Academia/Lore/Objetos Mágicos/Espada Sagrada de Edward.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 921099,
+      "exportedPath": "Academia/Lore/Objetos Mágicos/Espada Sagrada de Edward.png",
+      "dependencies": []
+    },
+    "Academia/Lore/Objetos Mágicos/Piedra Mensajera.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 0,
+      "exportedPath": "Academia/Lore/Objetos Mágicos/Piedra Mensajera.html",
+      "dependencies": []
+    },
+    "Academia/Lore/Objetos Mágicos/Varita de Shinebright.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 9279,
+      "exportedPath": "Academia/Lore/Objetos Mágicos/Varita de Shinebright.html",
+      "dependencies": []
+    },
+    "Academia/Party/Astrid Starweaver.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 5417,
+      "exportedPath": "Academia/Party/Astrid Starweaver.html",
+      "dependencies": []
+    },
+    "Academia/Party/Edward Kael.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 11621,
+      "exportedPath": "Academia/Party/Edward Kael.html",
+      "dependencies": []
+    },
+    "Academia/Party/Henri Chicot.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 13069,
+      "exportedPath": "Academia/Party/Henri Chicot.html",
+      "dependencies": []
+    },
+    "Academia/Party/Snuggly.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2099,
+      "exportedPath": "Academia/Party/Snuggly.html",
+      "dependencies": []
+    },
+    "Academia/Party/Tarus Cassidy.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 13983,
+      "exportedPath": "Academia/Party/Tarus Cassidy.html",
+      "dependencies": []
+    },
+    "Academia/Party/Tarvos.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 3877,
+      "exportedPath": "Academia/Party/Tarvos.html",
+      "dependencies": []
+    },
+    "Academia/Party/Tog Duma.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1673,
+      "exportedPath": "Academia/Party/Tog Duma.html",
+      "dependencies": []
+    },
+    "Academia/Party/Vindaros.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 16959,
+      "exportedPath": "Academia/Party/Vindaros.html",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Aaron PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 330229,
+      "exportedPath": "Halloween/Galería/Jugadores/Aaron PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Aquiri PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1093798,
+      "exportedPath": "Halloween/Galería/Jugadores/Aquiri PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Cálida PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1304368,
+      "exportedPath": "Halloween/Galería/Jugadores/Cálida PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Maddox PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 816798,
+      "exportedPath": "Halloween/Galería/Jugadores/Maddox PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Stark PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 837486,
+      "exportedPath": "Halloween/Galería/Jugadores/Stark PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Stark PNG 2.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 957649,
+      "exportedPath": "Halloween/Galería/Jugadores/Stark PNG 2.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Veil PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1144291,
+      "exportedPath": "Halloween/Galería/Jugadores/Veil PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Jugadores/Zedrick PNG.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 796724,
+      "exportedPath": "Halloween/Galería/Jugadores/Zedrick PNG.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Mapas/Bosque.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 17012942,
+      "exportedPath": "Halloween/Galería/Mapas/Bosque.jpg",
+      "dependencies": []
+    },
+    "Halloween/Galería/Mapas/Bosque Anotado.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 24809973,
+      "exportedPath": "Halloween/Galería/Mapas/Bosque Anotado.jpg",
+      "dependencies": []
+    },
+    "Halloween/Galería/Mapas/Tanwen Manor - 1.webp": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 610864,
+      "exportedPath": "Halloween/Galería/Mapas/Tanwen Manor - 1.webp",
+      "dependencies": []
+    },
+    "Halloween/Galería/Mapas/Tanwen Manor - 2.webp": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 557518,
+      "exportedPath": "Halloween/Galería/Mapas/Tanwen Manor - 2.webp",
+      "dependencies": []
+    },
+    "Halloween/Galería/Mapas/Tanwen Manor - 3.webp": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 551558,
+      "exportedPath": "Halloween/Galería/Mapas/Tanwen Manor - 3.webp",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Barco Etéreo llegando a Ciudad.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 940934,
+      "exportedPath": "Halloween/Galería/Miscelánea/Barco Etéreo llegando a Ciudad.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Círculo de Runas.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 237807,
+      "exportedPath": "Halloween/Galería/Miscelánea/Círculo de Runas.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Ciudad Etérea - Elemental Magma.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1486191,
+      "exportedPath": "Halloween/Galería/Miscelánea/Ciudad Etérea - Elemental Magma.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Drakkar - Plano Etéreo.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 322891,
+      "exportedPath": "Halloween/Galería/Miscelánea/Drakkar - Plano Etéreo.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Drakkar Runa.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 12680,
+      "exportedPath": "Halloween/Galería/Miscelánea/Drakkar Runa.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Etéreo - Elemental Agua.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 533831,
+      "exportedPath": "Halloween/Galería/Miscelánea/Etéreo - Elemental Agua.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Etéreo - Elemental Roca.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 602003,
+      "exportedPath": "Halloween/Galería/Miscelánea/Etéreo - Elemental Roca.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Habitaciones Sirvientes.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1395129,
+      "exportedPath": "Halloween/Galería/Miscelánea/Habitaciones Sirvientes.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Shadowfell.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 233354,
+      "exportedPath": "Halloween/Galería/Miscelánea/Shadowfell.jpg",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Tanwen Blackhawk.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 620443,
+      "exportedPath": "Halloween/Galería/Miscelánea/Tanwen Blackhawk.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/Miscelánea/Valle Etéreo.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 389941,
+      "exportedPath": "Halloween/Galería/Miscelánea/Valle Etéreo.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Ama de Llaves.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 931255,
+      "exportedPath": "Halloween/Galería/NPCs/Ama de Llaves.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Ayudante de Cocina.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1048285,
+      "exportedPath": "Halloween/Galería/NPCs/Ayudante de Cocina.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Baes.jpg": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 73118,
+      "exportedPath": "Halloween/Galería/NPCs/Baes.jpg",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Casper.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2029941,
+      "exportedPath": "Halloween/Galería/NPCs/Casper.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Casper Recortado.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 452459,
+      "exportedPath": "Halloween/Galería/NPCs/Casper Recortado.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Cazador.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 921300,
+      "exportedPath": "Halloween/Galería/NPCs/Cazador.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Cazador Recortado.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 578797,
+      "exportedPath": "Halloween/Galería/NPCs/Cazador Recortado.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Chef Phylro.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1147633,
+      "exportedPath": "Halloween/Galería/NPCs/Chef Phylro.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Chofer.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1210942,
+      "exportedPath": "Halloween/Galería/NPCs/Chofer.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Dian Solin.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1867703,
+      "exportedPath": "Halloween/Galería/NPCs/Dian Solin.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Doncella de Limpieza 1.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1298087,
+      "exportedPath": "Halloween/Galería/NPCs/Doncella de Limpieza 1.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Doncella de Limpieza 2.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1250210,
+      "exportedPath": "Halloween/Galería/NPCs/Doncella de Limpieza 2.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Doncella de Limpieza 3.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 982739,
+      "exportedPath": "Halloween/Galería/NPCs/Doncella de Limpieza 3.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Guideon Solin.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1762852,
+      "exportedPath": "Halloween/Galería/NPCs/Guideon Solin.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Institutriz.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1006736,
+      "exportedPath": "Halloween/Galería/NPCs/Institutriz.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Jardinero.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1489779,
+      "exportedPath": "Halloween/Galería/NPCs/Jardinero.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Jotham Novis.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1444939,
+      "exportedPath": "Halloween/Galería/NPCs/Jotham Novis.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Lavandera.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 840240,
+      "exportedPath": "Halloween/Galería/NPCs/Lavandera.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Madre Tanwen.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1149938,
+      "exportedPath": "Halloween/Galería/NPCs/Madre Tanwen.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Mayordomo.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1288081,
+      "exportedPath": "Halloween/Galería/NPCs/Mayordomo.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Mozo de Cuadra 1.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1460713,
+      "exportedPath": "Halloween/Galería/NPCs/Mozo de Cuadra 1.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Mozo de Cuadra 2.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1258475,
+      "exportedPath": "Halloween/Galería/NPCs/Mozo de Cuadra 2.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 594688,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker 2.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 25220482,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker 2.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker 3.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1816942,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker 3.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker 4.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1150290,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker 4.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker Ficha.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 8984378,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker Ficha.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Nightwalker Fichin.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 212694,
+      "exportedPath": "Halloween/Galería/NPCs/Nightwalker Fichin.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Sirvienta de Comedor.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1469775,
+      "exportedPath": "Halloween/Galería/NPCs/Sirvienta de Comedor.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Sirviente de Comedor.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 1199551,
+      "exportedPath": "Halloween/Galería/NPCs/Sirviente de Comedor.png",
+      "dependencies": []
+    },
+    "Halloween/Galería/NPCs/Vetsen.png": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 970451,
+      "exportedPath": "Halloween/Galería/NPCs/Vetsen.png",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Aaron Flaik.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 8577,
+      "exportedPath": "Halloween/Jugadores/Aaron Flaik.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Aquiri Novis.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 3215,
+      "exportedPath": "Halloween/Jugadores/Aquiri Novis.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Cálida Baignard.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 4922,
+      "exportedPath": "Halloween/Jugadores/Cálida Baignard.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Maddox Tanwen.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 2799,
+      "exportedPath": "Halloween/Jugadores/Maddox Tanwen.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Stark Tanwen.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 20,
+      "exportedPath": "Halloween/Jugadores/Stark Tanwen.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Veil Ruhig.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 3516,
+      "exportedPath": "Halloween/Jugadores/Veil Ruhig.html",
+      "dependencies": []
+    },
+    "Halloween/Jugadores/Zedrick Haro.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 3318,
+      "exportedPath": "Halloween/Jugadores/Zedrick Haro.html",
+      "dependencies": []
+    },
+    "Halloween/NPCs/Ashard Markides.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 0,
+      "exportedPath": "Halloween/NPCs/Ashard Markides.html",
+      "dependencies": []
+    },
+    "Halloween/Hallowweennn.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 8220,
+      "exportedPath": "Halloween/Hallowweennn.html",
+      "dependencies": []
+    },
+    "Halloween/Jalowin.canvas": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 30578,
+      "exportedPath": "Halloween/Jalowin.html",
+      "dependencies": []
+    },
+    "Halloween/Tanwen Blackhawk.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 0,
+      "exportedPath": "Halloween/Tanwen Blackhawk.html",
+      "dependencies": []
+    },
+    "Halloween/Tanwen Thunderstrike.md": {
+      "modifiedTime": 1765580009478,
+      "sourceSize": 0,
+      "exportedPath": "Halloween/Tanwen Thunderstrike.html",
       "dependencies": []
     }
   }
